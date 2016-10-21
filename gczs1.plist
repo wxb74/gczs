@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://59.61.83.174:942/nep/soft/gc512.png</string>
+					<string>http://59.61.83.174:942/nep/soft/512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://59.61.83.174:942/nep/soft/gc57.png</string>
+					<string>http://59.61.83.174:942/nep/soft/57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
